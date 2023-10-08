@@ -152,3 +152,9 @@ cython_debug/
 #.idea/
 Data/title.basics.tsv.gz
 Data/title.ratings.tsv.gz
+MovieData/final_tmdb_data_\[2001\].csv.gz
+MovieData/tmdb_results_combined.csv.gz
+Original Data/title.basics.tsv.gz
+Original Data/title.ratings.tsv.gz
+MovieData/final_tmdb_data_\[2001\].csv.gz
+MovieData/tmdb_results_combined.csv.gz
